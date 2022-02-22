@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Law and state proposals humbly presented to the supream authority ,the Parliament of England by William Ball.</title>
+            <author>Ball, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30453</idno>
+            <idno type="STC">Wing B591</idno>
+            <idno type="STC">ESTC R28343</idno>
+            <idno type="EEBO-CITATION">10543438</idno>
+            <idno type="OCLC">ocm 10543438</idno>
+            <idno type="VID">45221</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45221)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1395:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Law and state proposals humbly presented to the supream authority ,the Parliament of England by William Ball.</title>
+                  <author>Ball, William.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45221:1" rendition="simple:additions"/>
+            <p>LAW, and STATE PROPOSALS Humbly Preſented TO THE Supream Authority, THE Parliament of England.</p>
+            <p>By <hi>William Ball,</hi> Eſq;</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and are to be ſold at the Key in St. <hi>Pau's</hi> Church-Yard, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:45221:2"/>
+            <pb n="3" facs="tcp:45221:2"/>
+            <head>PROPOSALS, <hi>&amp;c,</hi>
+            </head>
+            <p>THe Parliament of <hi>England</hi> is <hi>Intrusted</hi> by the Peo<g ref="char:EOLhyphen"/>ple <hi>for</hi> their Lives, Liberties, and Eſtates; <hi>not with</hi>
+               <note place="margin">Regular preſerva<g ref="char:EOLhyphen"/>tion is the <hi>true Final Cauſe</hi> of all <hi>Intru<g ref="char:EOLhyphen"/>ſted</hi> Autho<g ref="char:EOLhyphen"/>rity, how Supream ſoever.</note> them: that is to ſay, <hi>for</hi> a Regular Preſervation of them according to Juſtice, <hi>not with</hi> an abſolute Ar<g ref="char:EOLhyphen"/>bitrary Diſpoſition of them at their Wills and Pleaſures, (as ſome State-Haereticks have aſſerted): ſo that the Parliament of <hi>England</hi> is obliged, according <hi>to their Trust,</hi> to propagate, for the good of the People, Laws<g ref="char:punc">▪</g> Conſonant and Conſiſtent with Reaſon and Juſtice; And it is the hope of all the peaceable People of this Commonwealth, that they will accompliſh the ſame. In Order whereunto, I have humbly tendred theſe Sequells.</p>
+            <p n="1">I. That Jurors (between Parties) be impannelled <hi>of able and ſufficiently knowing Men, of good Name and Fame for their upright Dealing;</hi> and not of Mean and Ignorant Perſons, to the great wrongs and aggrievances of many.</p>
+            <p n="2">II. That all <hi>Judges whatſoever,</hi> who ſhall directly, or indi<g ref="char:EOLhyphen"/>rectly<g ref="char:punc">▪</g> take or receive, any Bribe, or Gift, from any who have any Suit Depending before Them, ſhall ſuffer Death without mercy.</p>
+            <p n="3">III. That, all <hi>Forgers</hi> and <hi>Falſifiers</hi> of Deeds, Wills, Bonds; <hi>&amp;c.</hi> Alſo, Falſifiers and Embezellers of Examinations taken upon Oath in Chancery, ſuffer Death without mercy; And that all <hi>Suborners</hi> and <hi>Acceſſaries</hi> be branded in either Cheek with an <hi>F.</hi> foraſmuch as <hi>Forgery</hi> is a moſt ſecret and pernicious Theft.</p>
+            <p n="4">IV. That <hi>Perjury,</hi> whereby any one is deprived, or in danger to be deprived of, His, Her, or their Lives, Eſtates, or
+<pb n="4" facs="tcp:45221:3"/> Rights; be puniſhed with Death without mercy; And that all <hi>Suborners</hi> be branded in either Cheek with a <hi>P.</hi> foraſmuch as <hi>Perjury</hi> may Violate three Divine Commandements, and is moſt Pernicious and Dangerous in a Commonwealth.</p>
+            <p n="5">V. That <hi>Perjurors,</hi> upon anſwer in Chancery to a Bill of Complaint, or otherwiſe to a Petition of Right, be branded in either Cheek with a <hi>P.</hi> and they lyable (if able) to pay double Damages to the Party, or Parties wronged; or to ſuffer farther Corporal puniſhment: that ſo the Rights of others may not be concealed, nor they wronged, or vexatiouſly trou<g ref="char:EOLhyphen"/>bled therein.</p>
+            <p n="6">VI. That all <hi>Embezellers</hi> of true <hi>Wills</hi> and Teſtaments ſuffer Death without mercy; And all <hi>concealers</hi> of ſuch <hi>Wills</hi> and Teſtaments be branded in either Cheek with a <hi>W.</hi> foraſmuch as the Practiſes and Compliances thereof are high Theft.</p>
+            <p n="7">VII. That no <hi>Will</hi> or Teſtament, for giving, or ſettling of any Lands (unleſs where cuſtome prevaileth) be deemed <hi>va<g ref="char:EOLhyphen"/>lid,</hi> unleſs ſuch <hi>Will</hi> be Signed, Sealed, and Publiſhed in the preſence of four ſufficient Witneſſes: that ſo Heirs at Law be not Diſ-inherited (contrary to the Law of GOD; <hi>Numb.</hi> 27. and Common Law of this Land) by Forged, or Fraudulent <hi>Wills;</hi> unduly obtained in the time of agony, by Force, Fear, of Flattery; and that all <hi>Wills</hi> ſo obtained be deemed <hi>Null.</hi>
+            </p>
+            <p n="8">VIII. That ſuch as ſhall be found guilty of <hi>Fraud,</hi> ſhall pay treble D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mages, or ſuffer ſevere Corporal puniſhment: Alſo, that all who ſhall obtain, or get into other mens Rights, or Eſtates by <hi>fraudulent</hi> Practiſes and Deviſes, and ſhall afterwards enjoy or poſſeſs the ſame by Collateral con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eyances or aſſuran<g ref="char:EOLhyphen"/>ces;<note place="margin">Alſo Lea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es for Life or Lives, and Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gages to be in<g ref="char:EOLhyphen"/>rolled be<g ref="char:EOLhyphen"/>fore the <hi>Cuſtos Ro<g ref="char:EOLhyphen"/>tulorum</hi> in the ſe<g ref="char:EOLhyphen"/>veral Counti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> ſhall, upon complaint and proof of ſuch former fraud, within the ſpace of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> years be outed of ſuch Eſtates, and the Collateral conveyances and aſſurances made <hi>Null;</hi> unleſſe ſuch Collateral conveyances mention ſome valuable conſidera<g ref="char:EOLhyphen"/>rion: that ſo, mean and neceſſitous Perſons may not be unduly deprived or wronged in their Rights.</p>
+            <p n="9">IX. That all Feo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fments, Deeds of gift, Uſes, and Rent-Charges, <hi>&amp;c.</hi> be inrolled in Chancery, or in the County where the Lands lye, before the <hi>Custos Rotulorum,</hi> &amp;c. within three months after their Dates, upon pain of being <hi>Null<g ref="char:punc">▪</g>
+               </hi> and in
+<pb n="5" facs="tcp:45221:3"/> caſe the Party, or Parties, who ſhould acknowledge ſuch Deed, or Deeds, happen to dye before three months; that then the Oaths of three ſufficient Witneſſes of honeſt Repute, depoſing the ſealing and delivery of ſuch Deeds within three months after the Death of ſuch Party, or Parties, who ſhould acknowledge the ſame, ſhall be ſufficient for <hi>Caption;</hi> they be<g ref="char:EOLhyphen"/>ing ſummoned thereunto by <hi>Subpaena,</hi> or by other warrant from the <hi>Cuſtos Rotulorum:</hi> by which means, forged, ſrandu<g ref="char:EOLhyphen"/>dulent, and ſuſpicious Deeds may be avoyded; and the paſſing of ſuch Eſtates, known and manifeſted.</p>
+            <p n="10">X. That all Lands, Rent-Charges, <hi>&amp;c.</hi> above <hi>per annum,</hi> expoſed to Sale, be publiſhed three Market-dayes by Bills ſetting <hi>truly</hi> forth ſuch Right as the Vendors have, and ſuch Incumbrances as are thereon (if any be), upon pain of for<g ref="char:EOLhyphen"/>feiting the valews of one half of them to the Commonwealth, or to ſuffer impriſonment, or Corporal puniſhment according<g ref="char:EOLhyphen"/>ly: And that ſuch Bills be read by ſome in the Market-place (at the time of Market) next adjoyning to the ſaid Lands, or in the chief Market-place (or ſo eſteemed) in, or within the County, where ſuch Lands lye, or where ſuch Rent-Charges are iſſuing; and that ſuch Bills, after reading, be ſet up by the Town-Clerk in ſuch Market-place: And that afterwards the ſaid Bills, or <hi>true</hi> and <hi>exact</hi> Copies thereof, be Regiſtred in a Book for that purpoſe appoynted, and kept by the <hi>Cuſtos Rotulorum</hi> of the County; the Party, or Parties paying 12 d. for every ſuch Bill: and in <hi>London,</hi> and other Cities, ſuch Bills to be read, and ſet up as aforeſaid in ſome Place; and Regiſtred, and kept by ſome <hi>ſworne</hi> Officer thereunto appointed: By this means Purchaſors (if they take any care) will not eaſily be de<g ref="char:EOLhyphen"/>frauded.</p>
+         </div>
+         <div type="proposals">
+            <head>Concerning Commerce, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1. THat (if it may be) Honourable Peace be procured, con<g ref="char:EOLhyphen"/>cluded<g ref="char:punc">▪</g> and continu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with all our Neighbour-Nations; that ſo Tra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> promoted, Manufactures encouraged, the Commonwealth enriched, and the People leſſe Taxed.</p>
+            <pb n="6" facs="tcp:45221:4"/>
+            <p n="2">2. That the ſervile People of this Commonwealth tranſpor<g ref="char:EOLhyphen"/>ted into the Plantations of <hi>America,</hi> may be more Chri<g ref="char:EOLhyphen"/>ſtian-like, and humanly uſed, than (as it is credibly reported) they uſually are.</p>
+            <p n="3">3. That Diſcovery be made (at the Charges of the Com<g ref="char:EOLhyphen"/>monwealth)<note place="margin">The <hi>Dutch</hi> would not have ſet footing in the hi<g ref="char:EOLhyphen"/>ther parts of <hi>nova Guinea,</hi> without expectati<g ref="char:EOLhyphen"/>on of con<g ref="char:EOLhyphen"/>ſiderable profit, <hi>&amp;c.</hi>
+               </note> of that vaſt Region, commonly called <hi>Terra Au<g ref="char:EOLhyphen"/>ſtralis inc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnita,<g ref="char:punc">▪</g>
+               </hi> over againſt <hi>China, Japon,</hi> and the <hi>Philip<g ref="char:EOLhyphen"/>pina's</hi> in the Coaſts of <hi>nova Guinea,</hi> and the South Sea, or <hi>mare del Zur;</hi> which Regions are commended by <hi>Pedro Fernando de Quir;</hi> and in which ('tis probable) as Rich and Commodi<g ref="char:EOLhyphen"/>ous Plantations may be diſcovered, as in <hi>America;</hi> and from which (if Diſcov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red) a valu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Commerce might be held with <hi>China<g ref="char:punc">▪</g> Japon,</hi> and the Regions of the South-Sea: however, the Diſcovery will be honourable.</p>
+            <p n="4">4. That ſevere Penalties be impoſed on ſuch as ſell by falſe Scales, weights, and meaſures; which is too uſually done, not<note place="margin">Divers Perſons keep true, and falſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, &amp; meaſures; and fell by either.</note> onely in Market-Towns, but alſo in Villages where Shop-Keepers are; and that they be ſubject to be indicted, <hi>&amp;c.</hi> for ſuch their defaults; and, upon ſufficient proof, ſubject to ſuch Penalties.</p>
+            <p n="5">5. That Pewterers be not permitted to allay their Tinn ſo much as they uſually do, but that they be ſtinted by a ſet pro<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion for Diſhes, and ſuch like Utenſils; and that prices be ſet thereon, according to the rate of Tinn, and that by weight.</p>
+            <p n="6">6. That the abuſes of Wine-Coopers, and Vintners, in So<g ref="char:EOLhyphen"/>phiſticating their Wines be reformed; and that prices be ſet thereon, according to their Rates at Importation, Cuſtomes, <hi>&amp;c.</hi> conſidered.</p>
+            <p n="7">7. That, whereas great waſtes of Timber, and Wood, have bin made (eſpecially ſince the late troubles); ſome Order be enjoyned for the Replantation of Wood, in Wood-Land Countries, by ſuch, and the Succeſſors of ſuch, who have them<g ref="char:EOLhyphen"/>ſelves, or whoſe Predeceſſors have, formerly felled them; and this to be done by ſome Injunction; conſideration being had to the quantity of Land, that ſo the ſtock of Wood be not ut<g ref="char:EOLhyphen"/>terly decayed, and the Common-wealth thereby Damnified.</p>
+            <pb n="7" facs="tcp:45221:4"/>
+            <p n="8">8. That (fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſmuch as much Building is compoſed of Brick) Bricks be larger made, and better burnt than uſually; upon ſome penalty to be impoſed: by which means Buildings will be ſtronger, and endure longer.</p>
+            <closer>
+               <signed>William Ball.</signed>
+            </closer>
+         </div>
+         <div type="proposals">
+            <head>Propoſall, <hi>&amp;c.</hi>
+            </head>
+            <p>FOraſmuch as Protection and Subjection are Relative and Correlative, in regard whereof, not only limited <note n="a" place="margin">Sir <hi>Henry Wot<g ref="char:EOLhyphen"/>ton,</hi> in his Supple<g ref="char:EOLhyphen"/>ment to the State of Chri<g ref="char:EOLhyphen"/>ſtendome, Pag. 17.</note> Kings, but alſo intruſted Potentates, and Powers, do ordinarily take ſome Oath or Engagement to Govern the People under them according to Law and Juſtice: I humbly therefore conceive, that it would be a great ſatisfaction to the People of this Com<g ref="char:EOLhyphen"/>monwealth, if the members of <note n="b" place="margin">Or Oligarchi<g ref="char:EOLhyphen"/>cal Tru<g ref="char:EOLhyphen"/>ſtees.</note> Parliament would vouch<g ref="char:EOLhyphen"/>ſafe to take this, or the like, enſuing Oath.</p>
+            <p>
+               <hi>J. A. B.</hi> do ſwear to Protect and Defend according to my beſt Skill and Ability, the People of this Commonwealth of <hi>England,</hi> and the Dominions thereunto belonging, in their Juſt and Legal Rights, and Liberties; and to maintain and procure juſt Laws and Ordinances; able, and upright Judges, Magiſtrates, and Officers of Peace and War, in Order thereun<g ref="char:EOLhyphen"/>to agreeable; and to maintain and procure the general Safety, regular Government, and publick Profit of this Common<g ref="char:EOLhyphen"/>wealth. So, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>William Ball.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
